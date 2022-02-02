@@ -1,0 +1,10 @@
+.contacts_container{
+    background: #e7e3e3b0;
+}
+
+@media screen and (min-width:992px) {
+    .contacts_container{
+        background: var(--lg-card-bg);
+        color: white;
+    }
+}

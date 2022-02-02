@@ -1,0 +1,7 @@
+@media  screen and (min-width: 992px) {
+    .card{
+        background-color: var(--lg-card-bg);
+        color: white;
+    }
+    
+}

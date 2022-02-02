@@ -1,0 +1,11 @@
+.icon{
+    width: 50px;
+    
+}
+
+.navbar{
+    width: 100%;
+    position: fixed;
+    height: var(--nav-height);
+    z-index: 2;
+}

@@ -1,0 +1,20 @@
+svg{
+    max-width: 350px;
+}
+body{
+    background: rgb(131,58,180);
+    background: linear-gradient(351deg, rgba(131,58,180,1) 22%, rgba(253,29,29,1) 31%, rgba(253,53,36,1) 54%, rgba(252,176,69,1) 79%);
+}
+@media screen and (min-width:992px) {
+    body{
+        background: white;
+    }
+    
+}
+
+main{
+    padding-top: var(--nav-height);
+}
+#menu{
+    padding-top: var(--nav-height);
+}

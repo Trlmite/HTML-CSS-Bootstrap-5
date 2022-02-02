@@ -1,0 +1,10 @@
+:root{
+    --header-font: 'Faster One', cursive ; 
+    --main-font: 'Fredoka One', cursive;
+
+    --lg-card-bg: rgba(43, 42, 42, 0.877);
+
+    --nav-height: 80px;
+
+    --footer-icons-height:50px;
+}

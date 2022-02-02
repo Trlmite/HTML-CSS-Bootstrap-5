@@ -1,0 +1,10 @@
+@import "./variables.css";
+@import "./typography.css";
+
+@import "./components/navbar.css";
+@import "./components/header.css";
+@import "./components/cards.css";
+@import "./components/shame.css";
+@import "./components/menu.css";
+@import "./components/footer.css";
+@import "./components/contacts.css";

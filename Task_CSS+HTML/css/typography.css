@@ -1,0 +1,7 @@
+.header-text{
+    font-family: var(--header-font);
+    text-transform: uppercase;
+}
+.text{
+    font-family: var(--main-font);
+}
